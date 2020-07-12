@@ -1,0 +1,6 @@
+If you dont have python installed: https://www.python.org/downloads/
+Then open cmd/terminal and enter python main.py in the directory you downloaded the program to, python3 main.py if on linux or mac.
+You may need to add python to your path, if so do the following:
+copy the download location of python, should be something like C:/users/your_username/Python
+then type edit environmental variables into the windows search bar, open it and click on path under system variables and press new
+paste the directory in and press ok, then restard cmd.
